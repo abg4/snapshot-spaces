@@ -6,7 +6,7 @@ async function getSnapshotData() {
   let spaces;
   const allSpaces = [];
 
-  const getContractAddress = (chain, address) =>
+  const getContractUrl = (chain, address) =>
     Number(chain) === 1
       ? "https://etherscan.io/address/" + address
       : Number(chain) === 137
@@ -15,6 +15,10 @@ async function getSnapshotData() {
       ? "https://gnosisscan.io/address/" + address
       : Number(chain) === 56
       ? "https://bscscan.com/address/" + address
+      : Number(chain) === 42161
+      ? "https://arbiscan.io/address/" + address
+      : Number(chain) === 43114
+      ? "https://snowtrace.io/address/" + address
       : address;
 
   do {
@@ -46,7 +50,7 @@ async function getSnapshotData() {
       result.data.data.spaces.map((space) => {
         space?.treasuries?.map((dao) => {
           space.treasuryNetwork = dao.network;
-          space.treasuryContract = getContractAddress(dao.network, dao.address);
+          space.treasuryContract = getContractUrl(dao.network, dao.address);
         });
         space?.plugins?.safeSnap?.safes?.map((dao) => {
           if (
@@ -58,7 +62,7 @@ async function getSnapshotData() {
           }
           space.realityNetwork = dao.network || "";
           space.realityAddress =
-            getContractAddress(dao.network, dao.realityAddress) || "";
+          getContractUrl(dao.network, dao.realityAddress) || "";
         });
         return allSpaces.push({
           name: space.name,
