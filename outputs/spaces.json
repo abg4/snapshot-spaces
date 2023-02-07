@@ -3786,7 +3786,7 @@
     "twitter": "InsureToken",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x329F5910739D4e7fd55594F68BFC7053a731cE22",
+    "treasuryContract": "https://snowtrace.io/address/0x329F5910739D4e7fd55594F68BFC7053a731cE22",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 88
@@ -17505,7 +17505,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 294
+    "proposalCount": 295
   },
   {
     "name": "BUSTa",
@@ -23073,7 +23073,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 161
+    "proposalCount": 162
   },
   {
     "name": "KuSwap",
@@ -27594,7 +27594,7 @@
     "twitter": "Treasure_DAO",
     "github": "https://github.com/TreasureProject",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0x1054E9D9091dC55a1738F9c8Fc0c79E59E222804",
+    "treasuryContract": "https://arbiscan.io/address/0x1054E9D9091dC55a1738F9c8Fc0c79E59E222804",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 27
@@ -30420,10 +30420,10 @@
     "proposalCount": 0
   },
   {
-    "name": "Kimeras in STEM",
-    "spaceUrl": "https://snapshot.org/#/womeninstem.eth",
+    "name": "DLG.",
+    "spaceUrl": "https://snapshot.org/#/dlg.eth",
     "website": "",
-    "twitter": "kimerasinstem",
+    "twitter": "dlg_soundwaves",
     "github": "",
     "treasuryNetwork": "",
     "treasuryContract": "",
@@ -30432,10 +30432,10 @@
     "proposalCount": 0
   },
   {
-    "name": "DLG.",
-    "spaceUrl": "https://snapshot.org/#/dlg.eth",
+    "name": "Kimeras in STEM",
+    "spaceUrl": "https://snapshot.org/#/womeninstem.eth",
     "website": "",
-    "twitter": "dlg_soundwaves",
+    "twitter": "kimerasinstem",
     "github": "",
     "treasuryNetwork": "",
     "treasuryContract": "",
@@ -44946,7 +44946,7 @@
     "twitter": "SnowdogDAO",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xa6fb637ba9759a4da538c662dfc3eed38bd28efe",
+    "treasuryContract": "https://snowtrace.io/address/0xa6fb637ba9759a4da538c662dfc3eed38bd28efe",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 2
@@ -45870,7 +45870,7 @@
     "twitter": "jadeprotocol",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xf15ff5df9924dbf0f257a79b63bf5678701af564",
+    "treasuryContract": "https://snowtrace.io/address/0xf15ff5df9924dbf0f257a79b63bf5678701af564",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 9
@@ -48618,7 +48618,7 @@
     "twitter": "GBlueberryClub",
     "github": "",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0xDe2DBb7f1C893Cc5E2f51CbFd2A73C8a016183a0",
+    "treasuryContract": "https://arbiscan.io/address/0xDe2DBb7f1C893Cc5E2f51CbFd2A73C8a016183a0",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 3
@@ -61122,9 +61122,9 @@
     "twitter": "AscendProtocol",
     "github": "https://github.com/Ascension-group",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0xaF1513c82c95736Fb2aF91Afd535c998100339Dc",
+    "treasuryContract": "https://arbiscan.io/address/0xaF1513c82c95736Fb2aF91Afd535c998100339Dc",
     "realityNetwork": "42161",
-    "realityAddress": "0x68C03DDB9F8c15b9e0F30c999440e723Add7456A",
+    "realityAddress": "https://arbiscan.io/address/0x68C03DDB9F8c15b9e0F30c999440e723Add7456A",
     "proposalCount": 1
   },
   {
@@ -61521,7 +61521,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 29
+    "proposalCount": 30
   },
   {
     "name": "smth",
@@ -62541,7 +62541,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 24
+    "proposalCount": 25
   },
   {
     "name": "HolyGrail.one",
@@ -62685,7 +62685,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 109
+    "proposalCount": 113
   },
   {
     "name": "BlockAdvocates",
@@ -74886,7 +74886,7 @@
     "twitter": "TheHydranet",
     "github": "https://github.com/hydra-net",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0xB9eBe487fc454264CbCdDfd19374D4D2353c779d",
+    "treasuryContract": "https://arbiscan.io/address/0xB9eBe487fc454264CbCdDfd19374D4D2353c779d",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 15
@@ -80457,7 +80457,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 155
+    "proposalCount": 156
   },
   {
     "name": "Stake DAO ANGLE",
@@ -82016,7 +82016,7 @@
     "treasuryNetwork": "",
     "treasuryContract": "",
     "realityNetwork": "43114",
-    "realityAddress": "0x3707Ae82B4130c3C59A80C78b1562BA66be4667d",
+    "realityAddress": "https://snowtrace.io/address/0x3707Ae82B4130c3C59A80C78b1562BA66be4667d",
     "proposalCount": 12
   },
   {
@@ -82890,7 +82890,7 @@
     "twitter": "GameTheoryTech",
     "github": "https://github.com/GameTheoryTech",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x148988f296b5B8B8e619434546A4C674397777dd",
+    "treasuryContract": "https://snowtrace.io/address/0x148988f296b5B8B8e619434546A4C674397777dd",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 3
@@ -82929,7 +82929,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 151
+    "proposalCount": 154
   },
   {
     "name": "NFT Fight Club DAO",
@@ -87978,7 +87978,7 @@
     "twitter": "",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xC41bc4C0CEAEe139b1F96B089180695149946689",
+    "treasuryContract": "https://snowtrace.io/address/0xC41bc4C0CEAEe139b1F96B089180695149946689",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 5
@@ -97680,7 +97680,7 @@
     "proposalCount": 0
   },
   {
-    "name": "Sustainable Mobility in Cities",
+    "name": "Aplicaciones de Transporte",
     "spaceUrl": "https://snapshot.org/#/carlosrozo.eth",
     "website": "",
     "twitter": "",
@@ -97689,7 +97689,7 @@
     "treasuryContract": "https://etherscan.io/address/0x0b451ca8a60225af272f1042e7dd3f53beecd8dc",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 35
+    "proposalCount": 33
   },
   {
     "name": "豪门",
@@ -101046,7 +101046,7 @@
     "twitter": "LifeVerse_GG",
     "github": "https://github.com/LifeVerse",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0x2A41e719ad1Bb59dc4226c58b09d88a06c61fda0",
+    "treasuryContract": "https://arbiscan.io/address/0x2A41e719ad1Bb59dc4226c58b09d88a06c61fda0",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 7
@@ -103974,7 +103974,7 @@
     "twitter": "EvoVerses",
     "github": "https://github.com/EvoVerses",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x7F8Ac7d0D886CA6881C795c7AF547487A029104A",
+    "treasuryContract": "https://snowtrace.io/address/0x7F8Ac7d0D886CA6881C795c7AF547487A029104A",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 4
@@ -107070,7 +107070,7 @@
     "twitter": "WOO_DAO",
     "github": "https://github.com/woonetwork",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x3aB48821D50137c31Ac1961c5AD496E4977ec4CF",
+    "treasuryContract": "https://snowtrace.io/address/0x3aB48821D50137c31Ac1961c5AD496E4977ec4CF",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 2
@@ -109461,7 +109461,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 116
+    "proposalCount": 117
   },
   {
     "name": "iDos Games",
@@ -111501,7 +111501,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 1693
+    "proposalCount": 1694
   },
   {
     "name": "m44bb",
@@ -113526,7 +113526,7 @@
     "twitter": "Champion_io",
     "github": "https://github.com/aritasan",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xcA6c1625b7E72cd0407aC995e074a3ccf81D6651",
+    "treasuryContract": "https://snowtrace.io/address/0xcA6c1625b7E72cd0407aC995e074a3ccf81D6651",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 5
@@ -113706,7 +113706,7 @@
     "twitter": "CheemsXmods",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xf0b6c436dd743daad19fd1e87cbe86eed9f122df",
+    "treasuryContract": "https://snowtrace.io/address/0xf0b6c436dd743daad19fd1e87cbe86eed9f122df",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 1
@@ -114306,7 +114306,7 @@
     "twitter": "elasticswap",
     "github": "https://github.com/elasticswap",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xF330C11D23787577b404341646626dFd5BfdC622",
+    "treasuryContract": "https://snowtrace.io/address/0xF330C11D23787577b404341646626dFd5BfdC622",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 4
@@ -114921,7 +114921,7 @@
     "treasuryContract": "https://etherscan.io/address/0x670fe512beac6231f0d6569a7b517b31c4aaa541",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 1
+    "proposalCount": 2
   },
   {
     "name": "Miguel Faus - Calladita",
@@ -117561,7 +117561,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 22
+    "proposalCount": 24
   },
   {
     "name": "Astra DAO",
@@ -119646,7 +119646,7 @@
     "twitter": "ihelp_defi",
     "github": "https://github.com/ihelp-finance",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xbE36692bC76eaecB34F29d66c04995426bC30C6D",
+    "treasuryContract": "https://snowtrace.io/address/0xbE36692bC76eaecB34F29d66c04995426bC30C6D",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 1
@@ -121677,7 +121677,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 1
+    "proposalCount": 2
   },
   {
     "name": "Hawex DAO",
@@ -131526,7 +131526,7 @@
     "twitter": "pinkcownft",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x236d76fF0374D2F888Be5e77C1e259faC42b970d",
+    "treasuryContract": "https://snowtrace.io/address/0x236d76fF0374D2F888Be5e77C1e259faC42b970d",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 3
@@ -132558,7 +132558,7 @@
     "twitter": "ChocolateCowNFT",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x3fb96474aC7Fa0C3308a79b9fa65831EDbb8b612",
+    "treasuryContract": "https://snowtrace.io/address/0x3fb96474aC7Fa0C3308a79b9fa65831EDbb8b612",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 0
@@ -135164,7 +135164,7 @@
     "treasuryNetwork": "1",
     "treasuryContract": "https://etherscan.io/address/0xabb80bc9F75CB9567602c360f1c3732a26fd81A2",
     "realityNetwork": "43114",
-    "realityAddress": "0x437ca259CCE90c5D99A5aaD0F945e702c5e688ce",
+    "realityAddress": "https://snowtrace.io/address/0x437ca259CCE90c5D99A5aaD0F945e702c5e688ce",
     "proposalCount": 12
   },
   {
@@ -141150,7 +141150,7 @@
     "twitter": "noxbeyond",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xEE576ebC6727D7Da876eDCd0429CdB48f69c3676",
+    "treasuryContract": "https://snowtrace.io/address/0xEE576ebC6727D7Da876eDCd0429CdB48f69c3676",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 6
@@ -142878,7 +142878,7 @@
     "twitter": "LodestarFinance",
     "github": "https://github.com/LodestarFinance",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0xed093F9720B2507C9B54FC117ecB2618910734dd",
+    "treasuryContract": "https://arbiscan.io/address/0xed093F9720B2507C9B54FC117ecB2618910734dd",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 6
@@ -143754,7 +143754,7 @@
     "twitter": "StudioSnowforge",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x274da56f03727A58b3B684018cb4A930475A8233",
+    "treasuryContract": "https://snowtrace.io/address/0x274da56f03727A58b3B684018cb4A930475A8233",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 1
@@ -144765,7 +144765,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 1
+    "proposalCount": 3
   },
   {
     "name": "Fin's Beach Bar",
@@ -145986,7 +145986,7 @@
     "twitter": "bCASH_AVAX",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0x1624c2A3250470Ea03f0ca2dC4eBdf26B6d2922d",
+    "treasuryContract": "https://snowtrace.io/address/0x1624c2A3250470Ea03f0ca2dC4eBdf26B6d2922d",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 10
@@ -147906,7 +147906,7 @@
     "twitter": "PrimapesGG",
     "github": "",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0x7f1156aa350982560653fed03ef0e285ef878B75",
+    "treasuryContract": "https://arbiscan.io/address/0x7f1156aa350982560653fed03ef0e285ef878B75",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 1
@@ -148224,7 +148224,7 @@
     "proposalCount": 1
   },
   {
-    "name": "A Regulated Cannabis Scheme ",
+    "name": "Metro de Bogotá",
     "spaceUrl": "https://snapshot.org/#/thecivilspace.eth",
     "website": "",
     "twitter": "",
@@ -148614,7 +148614,7 @@
     "twitter": "HoodlifeClub",
     "github": "",
     "treasuryNetwork": "42161",
-    "treasuryContract": "0x7482D1F6d226b7d74cA92B8E43bBC31c5fc25644",
+    "treasuryContract": "https://arbiscan.io/address/0x7482D1F6d226b7d74cA92B8E43bBC31c5fc25644",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 0
@@ -149706,7 +149706,7 @@
     "twitter": "OmegaYield",
     "github": "",
     "treasuryNetwork": "43114",
-    "treasuryContract": "0xF95073D3aC2774133e0313E3B17e3739daB19446",
+    "treasuryContract": "https://snowtrace.io/address/0xF95073D3aC2774133e0313E3B17e3739daB19446",
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 3
@@ -151701,7 +151701,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 0
+    "proposalCount": 1
   },
   {
     "name": "0xLander",
@@ -156969,7 +156969,7 @@
     "treasuryContract": "",
     "realityNetwork": "",
     "realityAddress": "",
-    "proposalCount": 9
+    "proposalCount": 11
   },
   {
     "name": "Tales of Zodiacs DAO",
@@ -157702,5 +157702,29 @@
     "realityNetwork": "",
     "realityAddress": "",
     "proposalCount": 1
+  },
+  {
+    "name": "Founderly Club",
+    "spaceUrl": "https://snapshot.org/#/founderly.eth",
+    "website": "https://founderly.com",
+    "twitter": "founderly",
+    "github": "https://github.com/founderly",
+    "treasuryNetwork": "",
+    "treasuryContract": "",
+    "realityNetwork": "",
+    "realityAddress": "",
+    "proposalCount": 0
+  },
+  {
+    "name": "TheDecisionMakers",
+    "spaceUrl": "https://snapshot.org/#/thedecisionmakers.eth",
+    "website": "",
+    "twitter": "",
+    "github": "",
+    "treasuryNetwork": "",
+    "treasuryContract": "",
+    "realityNetwork": "",
+    "realityAddress": "",
+    "proposalCount": 0
   }
 ]
